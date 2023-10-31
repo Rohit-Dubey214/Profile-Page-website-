@@ -1,0 +1,6 @@
+Cretaed a website of profile using some of my idol
+take photos from internet
+Also take details from internet for filling the details about them.
+As per sample output I used images instead using colors over the text.
+try to make a gap between profile dropdown and Home but unable to do so.
+used bootstrap website for multiple details.
